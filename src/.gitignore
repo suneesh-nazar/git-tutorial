@@ -1,4 +1,0 @@
-# Git ignore file to ignore the files/folders from repository
-
-secrets.txt
-.DS_Store
